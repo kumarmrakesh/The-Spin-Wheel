@@ -1,1 +1,15 @@
-rakspinwheel.com
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sample Spin Wheel</title>
+  
+  <script id="convertful-api" src="https://app.convertful.com/Convertful.js?owner=46695" async></script>
+  
+</head>
+<body>
+
+<h1>Spin Wheel:</h1>
+
+</body>
+</html>
